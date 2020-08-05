@@ -2,7 +2,10 @@
 GET http://localhost:1337
 
 ### POST request with a header
-POST http://localhost:1337
+POST http://localhost:1337/plop
+Content-Type: application/json
+
+{"data":"plop"}
 
 ### GET request with a header
 GET http://localhost:1337/static/hello.html
