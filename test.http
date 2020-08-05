@@ -1,0 +1,9 @@
+### GET request with a header
+GET http://localhost:1337
+
+### POST request with a header
+POST http://localhost:1337
+
+### GET request with a header
+GET http://localhost:1337/static/hello.html
+
