@@ -3,16 +3,16 @@ Content Delivery Network As A Service
 
 ## English
 
-Few months ago, I was look for a Content Delivery Network for my app.
+Few months ago, I was looking for a Content Delivery Network for my app.
 
-I never found a simple Docker Image for doing this using a RESTFul API.
+I never found a simple Docker Image to do this using a RESTFul API.
 
-So my idea is *simple*: create a CRUD API for manipulate all the files.
+So my idea is *simple*: create a CRUD API to manipulate all the files.
 
 ### F.A.Q
 1. Why using [Deno](https://deno.land/) for the Backend ?
 
-_For trying the "new" NodeJS, see how Deno is using TypeScript and know how the world can be without NPM._
+_To try the "new" NodeJS, see how Deno is using TypeScript and know how the world can be without NPM._
 
 2. Can we change Deno for Backend ?
 
